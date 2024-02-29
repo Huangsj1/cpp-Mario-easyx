@@ -1,3 +1,12 @@
 ﻿  Bkground.cpp
+  Bkground.h
+  Enemies.cpp
+  Game.cpp
+  KeyMsg.cpp
+  main.cpp
+  Mario.cpp
+  Obstacle.cpp
+  Spirits.cpp
+  正在生成代码...
 x64\Debug\Bkground.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
-  c++实现超级玛丽.vcxproj -> E:\小游戏\c++超级玛丽\c++实现超级玛丽\x64\Debug\c++实现超级玛丽.exe
+  c++实现超级玛丽.vcxproj -> E:\github\Mario\c++超级玛丽\c++实现超级玛丽\x64\Debug\c++实现超级玛丽.exe
